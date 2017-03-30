@@ -1,3 +1,3 @@
 # PhantomJS
 
-![](https://image.ibb.co/bSMPFa/phantomjs.png)
+![](https://image.ibb.co/jTgrva/phantom.png)
